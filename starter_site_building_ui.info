@@ -1,0 +1,13 @@
+name = Starter: Site building UI
+description = Starter Site building UI.
+core = 7.x
+package = Starter
+version = 7.x-1.0
+project = starter_site_building_ui
+dependencies[] = context_ui
+dependencies[] = ds_ui
+dependencies[] = field_ui
+dependencies[] = rules_admin
+dependencies[] = views_ui
+features[features_api][] = api:2
+project path = sites/all/modules/features
