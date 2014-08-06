@@ -4,6 +4,7 @@ core = 7.x
 package = Starter
 version = 7.x-1.0
 project = starter_site_building_ui
+dependencies[] = starter_site_building
 dependencies[] = context_ui
 dependencies[] = ds_ui
 dependencies[] = field_ui
