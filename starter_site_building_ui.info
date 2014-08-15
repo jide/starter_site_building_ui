@@ -10,5 +10,6 @@ dependencies[] = field_ui
 dependencies[] = rules_admin
 dependencies[] = starter_site_building
 dependencies[] = views_ui
+dependencies[] = field_info
 features[features_api][] = api:2
 project path = sites/all/modules/features
