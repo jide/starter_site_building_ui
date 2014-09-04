@@ -11,5 +11,6 @@ dependencies[] = rules_admin
 dependencies[] = starter_site_building
 dependencies[] = views_ui
 dependencies[] = bean_admin_ui
+dependencies[] = context_everywhere
 features[features_api][] = api:2
 project path = sites/all/modules/features
